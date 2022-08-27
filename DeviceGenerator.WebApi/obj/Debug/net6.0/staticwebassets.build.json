@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SyFY7Ah13ZBuWCIwUH9VGbeYrRRUkrV4iuoA0iIGiVc=",
+  "Source": "DeviceGenerator.WebApi",
+  "BasePath": "_content/DeviceGenerator.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

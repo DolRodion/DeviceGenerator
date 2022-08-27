@@ -1,0 +1,12 @@
+C:\Users\dolro\source\repos\DeviceGenerator\DeviceGenerator.Application\bin\Debug\net6.0\DeviceGenerator.Application.deps.json
+C:\Users\dolro\source\repos\DeviceGenerator\DeviceGenerator.Application\bin\Debug\net6.0\DeviceGenerator.Application.dll
+C:\Users\dolro\source\repos\DeviceGenerator\DeviceGenerator.Application\bin\Debug\net6.0\DeviceGenerator.Application.pdb
+C:\Users\dolro\source\repos\DeviceGenerator\DeviceGenerator.Application\obj\Debug\net6.0\DeviceGenerator.Application.csproj.AssemblyReference.cache
+C:\Users\dolro\source\repos\DeviceGenerator\DeviceGenerator.Application\obj\Debug\net6.0\DeviceGenerator.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dolro\source\repos\DeviceGenerator\DeviceGenerator.Application\obj\Debug\net6.0\DeviceGenerator.Application.AssemblyInfoInputs.cache
+C:\Users\dolro\source\repos\DeviceGenerator\DeviceGenerator.Application\obj\Debug\net6.0\DeviceGenerator.Application.AssemblyInfo.cs
+C:\Users\dolro\source\repos\DeviceGenerator\DeviceGenerator.Application\obj\Debug\net6.0\DeviceGenerator.Application.csproj.CoreCompileInputs.cache
+C:\Users\dolro\source\repos\DeviceGenerator\DeviceGenerator.Application\obj\Debug\net6.0\DeviceGenerator.Application.dll
+C:\Users\dolro\source\repos\DeviceGenerator\DeviceGenerator.Application\obj\Debug\net6.0\refint\DeviceGenerator.Application.dll
+C:\Users\dolro\source\repos\DeviceGenerator\DeviceGenerator.Application\obj\Debug\net6.0\DeviceGenerator.Application.pdb
+C:\Users\dolro\source\repos\DeviceGenerator\DeviceGenerator.Application\obj\Debug\net6.0\ref\DeviceGenerator.Application.dll
